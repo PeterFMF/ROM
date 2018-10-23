@@ -1,7 +1,7 @@
 # ROM
 Za ROM
 
-1. DOMAČE NALOGE: 
+DOMAČE NALOGE: 
 
 1. Linearna enačba (10)
 2. Linearne funkcije (37)
