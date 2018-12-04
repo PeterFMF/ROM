@@ -10,3 +10,8 @@ DOMAČE NALOGE:
 ### [Kotne funkcije - 1 (3)](https://www.sc-nm.si/sss/file/open/607_ebc9fb02d961/U%C4%8Dni%20list%20-%20Kotne%20funkcije%20-%201.pdf)
 ### [Odvod - 1 (26)](https://www.sc-nm.si/sss/file/open/668_cb52c5ef2752/U%C4%8Dni%20list%20-%20Odvod%20-%201.pdf)
 ### [Zaporedja (10)](https://www.sc-nm.si/sss/file/open/669_807cd44dbba4/U%C4%8Dni%20list%20-%20Zaporedja.pdf)
+
+
+Ideja:
+1. V 3D Graphicsu sestavim žogico in njen smerni vektor in preko funkcije Manipulate prikažem kako žogica pada.
+2. Sestavim možička (stick man), ki se premika iz točke A do B z uporabo funkcije Manipulate.
