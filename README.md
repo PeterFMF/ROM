@@ -14,4 +14,3 @@ DOMAČE NALOGE:
 
 Ideja:
 1. V 3D Graphicsu sestavim žogico in njen smerni vektor in preko funkcije Manipulate prikažem kako žogica pada.
-2. Sestavim možička (stick man), ki se premika iz točke A do B z uporabo funkcije Manipulate.
